@@ -1,0 +1,4 @@
+baseURL = 'http://aedhr.com'
+languageCode = 'en-us'
+title = 'AED HR'
+theme = 'ava'

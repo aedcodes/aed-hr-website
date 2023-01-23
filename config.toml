@@ -1,7 +1,14 @@
 baseURL = 'http://aedhr.com'
 languageCode = 'en-us'
-title = 'AED HR'
+title = ''
 theme = 'ava'
+
+
+[params]
+  ga_id=""
+  mainSections = ["post"]
+  disqus = "xxxxxxx"
+  defaultImage = "/images/Largelogo.png"
 
 
 [[menu.main]]
@@ -15,6 +22,11 @@ theme = 'ava'
     weight = 2
 
 [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 3
+
+[[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 4

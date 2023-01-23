@@ -1,15 +1,36 @@
 baseURL = 'http://aedhr.com'
 languageCode = 'en-us'
-title = ''
-theme = 'ava'
+title = "aed HR" #changes the title on the home page
+theme = "ava" #don't change this, it will stop working
+paginate = 7
+mainSections = "post"
 
+enableEmoji = true
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   ga_id=""
   mainSections = ["post"]
   disqus = "xxxxxxx"
-  defaultImage = "/images/Largelogo.png"
+  defaultImage = "/images/frontpage.png"
 
+[markup]
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = true
+        lineNos = false
+        tabWidth = 4
+        noClasses = false
+        pygmentsUseClasses = true
+        pygmentsCodefences = true
+
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe= true   
+
+    [markup.blackFriday]
+        angledQuotes = true
 
 [[menu.main]]
     name = "Home"
@@ -30,3 +51,7 @@ theme = 'ava'
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

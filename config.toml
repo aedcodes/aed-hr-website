@@ -48,8 +48,8 @@ canonifyURLs = true
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Working Together"
+    url = "/working-together/"
     weight = 4
 
 [permalinks]

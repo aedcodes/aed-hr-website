@@ -3,7 +3,7 @@ title: 'Working Together'
 description: How we will work together
 date: 2021-08-01T11:11:11+01:00
 ---
-<!-- Need to add beth's edits -->
+
 
 # Commitments
 Our work together will be a partnership. Together, we will commit to…

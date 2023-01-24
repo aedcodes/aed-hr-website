@@ -555,7 +555,7 @@ pre {
   --color-subheader: hsl(27, 24%, 91%);
   --color-footer: hsl(27, 12%, 71%);
   --color-btn: hsl(240, 3%, 7%);
-  --accent-color: hsl(53, 80%, 63%);
+  --accent-color: hsl(48, 64%, 55%);
   /* Background */
   /* Other */
   /* Error */

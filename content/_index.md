@@ -1,22 +1,20 @@
 ---
-title: 'aedHR'
+title: 'Work can be better.'
 description: Welcome to my blog!
 date: 2021-08-01T11:11:11+01:00
 ---
 
-# Work can be better.
-
-## When folks can: 
+### When your staff can can: 
 - be their authentic selves, 
 - feel safe taking risks, and 
 - care for themselves
 
-## Everything gets better: 
-- your products, 
-- your retention, and 
-- your culture.
+### everything gets better: your products, your retention, and your culture.
 
+----------
 # It's time to make your workplace better. 
+# I'd like to help.
+
 
 ----------
 

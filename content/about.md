@@ -7,7 +7,7 @@ date: 2021-08-01T11:11:11+01:00
 
 
 <!-- Image type 2: "inline" -->
-{{< figure src="/images/headshot.jpg"  >}}
+{{< figure src="/images/Headshot-small.jpg"  >}}
 
 Hi! I’m AnnE Diemer — and yes, my doctor parents made my initials match the automated external defibrillator. But 8+ years into my career in Human Resources, I’ve learned that sometimes an external source of energy might be just what you need to get things running more smoothly. And that’s when you reach out to me!
 

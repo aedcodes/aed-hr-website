@@ -299,7 +299,7 @@ pre {
   --color-subheader: hsl(30, 37%, 89%);
   --color-footer: hsl(27, 12%, 71%);
   --color-btn: hsl(240, 82%, 98%);
-  --accent-color: hsl(341, 80%, 42%);
+  --accent-color: hsl(355, 57%, 55%);
   /* Background */
   /* Other */
   /* Error */
@@ -420,7 +420,7 @@ pre {
   :root[data-theme="light"] .chroma .kd {
     color: #00a6c7; }
   :root[data-theme="light"] .chroma .kn {
-    color: #f92472; }
+    color: #ce4b56; }
   :root[data-theme="light"] .chroma .kp {
     color: #00a6c7; }
   :root[data-theme="light"] .chroma .kr {
@@ -458,7 +458,7 @@ pre {
   :root[data-theme="light"] .chroma .py {
     color: #121212; }
   :root[data-theme="light"] .chroma .nt {
-    color: #f92472; }
+    color: #ce4b56; }
   :root[data-theme="light"] .chroma .nv {
     color: #121212; }
   :root[data-theme="light"] .chroma .vc {
@@ -516,9 +516,9 @@ pre {
   :root[data-theme="light"] .chroma .mo {
     color: #ac80ff; }
   :root[data-theme="light"] .chroma .o {
-    color: #f92472; }
+    color: #ce4b56; }
   :root[data-theme="light"] .chroma .ow {
-    color: #f92472; }
+    color: #ce4b56; }
   :root[data-theme="light"] .chroma .p {
     color: #121212; }
   :root[data-theme="light"] .chroma .c {

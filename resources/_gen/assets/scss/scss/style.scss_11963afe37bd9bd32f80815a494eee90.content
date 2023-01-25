@@ -541,16 +541,16 @@ pre {
     font-weight: bold; }
 
 :root[data-theme="dark"] {
-  --bg-color: hsl(216, 10%, 10%);
-  --bg-color-header: hsl(216, 10%, 10%);
-  --bg-color-subheader: hsl(220, 7%, 17%);
-  --bg-color-footer: hsl(220, 7%, 8%);
+  --bg-color: hsl(207, 10%, 18%);
+  --bg-color-header: hsl(207, 10%, 18%);
+  --bg-color-subheader: hsl(207, 10%, 18%);
+  --bg-color-footer: hsl(207, 10%, 18%);
   --bg-quotes: hsl(218, 15%, 14%);
   --bg-inputs: hsl(218, 15%, 14%);
   --bg-menu-mobile: hsl(180, 4%, 5%);
   --bg-btn: hsl(53, 86%, 59%);
   --color: hsl(0, 0%, 79%);
-  --color-header: hsl(24, 9%, 78%);
+  --color-header: hsl(90, 2%, 80%);
   --color-menu-mobile: hsl(0, 0%, 98%);
   --color-subheader: hsl(27, 24%, 91%);
   --color-footer: hsl(27, 12%, 71%);

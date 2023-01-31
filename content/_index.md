@@ -4,9 +4,14 @@ description: Welcome to my blog!
 date: 2021-08-01T11:11:11+01:00
 ---
 
-<h4 style="text-align: center;">When your staff can can be their authentic selves, feel safe taking risks, and care for themselves everything gets better: </h4>
+<h4 style="text-align: center;">When your staff can be their authentic selves, feel safe taking risks, and care for themselves, everything gets better: </h4>
 
-<h4 style ="text-align: center;"> your products, your retention, and your culture.</h4>
+<h4 style="text-align: center;"> ✅ your products </h4>
+
+<h4 style="text-align: center;"> ✅ employee retention </h4>
+
+<h4 style="text-align: center;"> ✅ your culture </h4>
+
 
 ----------
 <h1 style="text-align: center;"> It's time to make your workplace better. </h1>
@@ -15,5 +20,5 @@ date: 2021-08-01T11:11:11+01:00
 
 ----------
 
-I focus on several different areas of the employee lifecycle: recruiting, onboarding, employee experience, and performance. Improvements these areas will significantly improve your workplace. Visit [Services]( {{< relref "services" >}}) to learn more and [Working Together]({{< relref "working-together" >}}) to plan next steps!
+I focus on several different areas of the employee lifecycle: recruiting, onboarding, employee experience, and performance. By focusing on these areas, we will ensure every person at your organization feels included, engaged, and set up for success. Visit [Services]( {{< relref "services" >}}) to learn more and [Working Together]({{< relref "working-together" >}}) to plan next steps!
 

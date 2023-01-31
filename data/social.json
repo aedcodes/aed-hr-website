@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/annelizdiemer",
+        "html_class": "twitter"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/annediemer/",
+        "html_class": "linkedin"
+    }
+]

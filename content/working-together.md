@@ -16,4 +16,4 @@ Our work together will be a partnership. Together, we will commit to…
 
 ### If this sounds good to you, let's get started!
 
-You can reach out to me at ...
+You can reach out to me by emailing [hi@aedhr.com](mailto:hi@aedhr.com)

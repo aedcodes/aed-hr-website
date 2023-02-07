@@ -1,5 +1,5 @@
-# baseURL = 'http://aedhr.com'
-baseURL = 'https://aed-hr.onrender.com/'
+baseURL = 'https://aedhr.com'
+# baseURL = 'https://aed-hr.onrender.com/'
 languageCode = 'en-us'
 title = "aed HR" #changes the title on the home page
 theme = "ava" #don't change this, it will stop working

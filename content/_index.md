@@ -28,6 +28,6 @@ I focus on several different areas of the employee lifecycle: recruiting, onboar
 >
 > If you want a change in your organizational culture and more effective teams, AnnE is the HR professional you need!
 
-<p style="text-align: right;"> - Barion Grant, Former Director of Design, The Hub Project </p>
+<p style="text-align: right;"> - Barion Grant, The Hub Project </p>
 
 To hear more from my partners, check out [Testimonials]( {{< relref "testimonials" >}})!

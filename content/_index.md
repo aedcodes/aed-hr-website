@@ -22,3 +22,12 @@ date: 2021-08-01T11:11:11+01:00
 
 I focus on several different areas of the employee lifecycle: recruiting, onboarding, employee experience, and performance. By focusing on these areas, we will ensure every person at your organization feels included, engaged, and set up for success. Visit [Services]( {{< relref "services" >}}) to learn more and [Working Together]({{< relref "working-together" >}}) to plan next steps!
 
+----------
+
+> ***Don't hire AnnE if you're not committed to leaning into difficult organizational transformation.***
+>
+> If you want a change in your organizational culture and more effective teams, AnnE is the HR professional you need!
+
+<p style="text-align: right;"> - Barion Grant, Former Director of Design, The Hub Project </p>
+
+To hear more from my partners, check out [Testimonials]( {{< relref "testimonials" >}})!

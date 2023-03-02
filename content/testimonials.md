@@ -14,6 +14,16 @@ Here's what people are saying about working with me:
 
 <p style="text-align: right;"> - Arkadi Gerney, Former Executive Director, The Hub Project </p>
 
+> AnnE consistently demonstrated an unyielding passion for making our office environment a more inclusive, empathetic, and secure environment to be in. AnnE's ability to build deep trust from every level of our organization and offer resilient bridges when there were fragile divides was indispensable. AnnE’s commitment to a more just and equitable society is deep, sustained, and unquestioned.
+
+<p style="text-align: right;"> - Bryan Bennett, Navigator </p>
+
+> As part of my role as Site Lead for Stripe Seattle, I worked closely with AnnE. The office was the fastest growing Stripe location and we scaled from a single person to over 700 people in 4 years. 
+>
+>AnnE was instrumental in helping make that office a success through her cross-company efforts in recruiting, recruiting operations, internal communications, and inclusion efforts. In particular, AnnE had significant impact on this office (and the company as a whole) through the work she did to design, introduce, run, and iterate on a Candidate Review process. AnnE was also instrumental in Stripe's university recruiting and diversity recruiting initiatives.
+
+<p style="text-align: right;"> - Brian Delahunty, Former Seattle Lead, Stripe </p>
+
 > When I started a new position in the heart of the pandemic, AnnE was the one to steer my onboarding process and make it one of the most thorough and smooth onboarding processes I have experienced. She helped me understand expectations and goals quickly and clearly, while simultaneously ensuring that the resources and opportunities I needed to fully inhabit my role were easily accessible. 
 >
 > AnnE was also the driving force in making me feel connected to my work community. Her creativity and help in providing opportunities for me to spark and build relationships, while still encouraging me to do so at my own pace, meant that I quickly felt settled as a part of the team. 
